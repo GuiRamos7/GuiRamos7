@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuiRamos7&theme=nightowl&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 <!--
 **GuiRamos7/GuiRamos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
