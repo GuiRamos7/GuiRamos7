@@ -1,7 +1,18 @@
 ### Hi there 👋
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuiRamos7&theme=nightowl&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=guiramos7&show_icons=true&theme=nightowl&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=guiramos7&theme=nightowl&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
+
 
 <!--
 **GuiRamos7/GuiRamos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
