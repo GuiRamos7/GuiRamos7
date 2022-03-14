@@ -1,3 +1,6 @@
+## Hi there, I'm Guilherme Ramos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
+
+<br/>
 
 - 💻 Front-end Developer
 - 🏢 I'm currently working at Fliper
