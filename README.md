@@ -6,6 +6,7 @@
 - 🏢 I'm currently working at Fliper
 - ⚙️ Working with: `.tsx` `.css` `.html` 
 - ⚡ Fun fact: I love to discover new musics
+- 🌱 Current learning about `Next.js`
 
 <br/>
 
