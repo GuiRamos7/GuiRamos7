@@ -4,9 +4,9 @@
 
 - 💻 Front-end Developer
 - 🏢 I'm currently working at Fliper
-- ⚙️ Working with: `.tsx` `.css` `.html` 
+- ⚙️ Working with: `.tsx` `.css` `.html` `Next.js`
 - ⚡ Fun fact: I love to discover new musics
-- 🌱 Current learning about `Next.js`
+- 🌱 Current learning about `Node.js`
 
 <br/>
 
