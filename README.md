@@ -3,7 +3,7 @@
 <br/>
 
 - 💻 Front-end Developer
-- 🏢 I'm currently working at Fliper
+- 🏢 I'm currently working at TickX
 - ⚙️ Working with: `.tsx` `.css` `.html` `Next.js`
 - ⚡ Fun fact: I love to discover new musics
 - 🌱 Current learning about `Node.js`
