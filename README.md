@@ -5,7 +5,7 @@
 - 💻 Front-end Developer
 - 🏢 I'm currently working at TickX
 - ⚙️ Working with: `.tsx` `.css` `.html` `Next.js`
-- ⚡ Fun fact: I love to discover new musics
+- ⚡ Fun fact: I love to discover new songs
 - 🌱 Current learning about `Node.js`
 
 <br/>
